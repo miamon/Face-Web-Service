@@ -1,0 +1,11 @@
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\bin\Debug\waServicioWebFace.exe.config
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\bin\Debug\waServicioWebFace.exe
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\bin\Debug\waServicioWebFace.pdb
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\bin\Debug\waServicioWebFace.xml
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\obj\Debug\waServicioWebFace.vbprojResolveAssemblyReference.cache
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\obj\Debug\waServicioWebFace.frmFACE.resources
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\obj\Debug\waServicioWebFace.Resources.resources
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\obj\Debug\waServicioWebFace.vbproj.GenerateResource.Cache
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\obj\Debug\waServicioWebFace.exe
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\obj\Debug\waServicioWebFace.xml
+E:\Dropbox\Visual Studio 2013\Projects\waServicioWebFace\waServicioWebFace\obj\Debug\waServicioWebFace.pdb
