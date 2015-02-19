@@ -3,7 +3,7 @@ Aplicación Visual Basic.Net con Visual Studio 2013 para conectar con Servicio W
 
 Necesitamos certificado en .pfx y FacturaE .xsig
 
-
+Para utilizar los servicio web de FACE Y hay que dar de alta la parte publica del certificado en https://face.gob.es/es/proveedores (más información en http://administracionelectronica.gob.es/ctt/resources/Soluciones/334/Area%20descargas/Interfaz%20WS%20FACe-%20Proveedores%20.pdf)
 
 Gracias a los aportes de:
 sViudes Blog -  http://sviudes.blogspot.com.es/2010/05/facturae-con-net-y-c.html 
