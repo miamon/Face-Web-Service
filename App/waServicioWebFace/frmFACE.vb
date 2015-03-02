@@ -40,7 +40,10 @@ Public Class frmFACE
         End Try
 
 
-        fra.factura = line
+        Dim fichero64 As String
+        Dim byt As Byte() = System.Text.Encoding.UTF8.GetBytes(line)
+        fichero64 = Convert.ToBase64String(byt)
+        fra.factura = fichero64
         fra.nombre = "NOMBREDELAFACTURA.xsig"
         fra.mime = "application/xml"
 
