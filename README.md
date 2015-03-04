@@ -1,4 +1,4 @@
-# Face-Web-Service
+# Face Web Service .net
 Aplicación Visual Basic.Net con Visual Studio 2013 para conectar con Servicio Web de Face para FacturaE
 
 Necesitamos certificado en .pfx y FacturaE .xsig
